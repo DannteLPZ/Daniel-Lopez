@@ -47,9 +47,11 @@ ul {
 
 .cv-section {
     position: relative;
-
+    text-align:justify;  
+    text-justify:inter-word;
+    
     margin: 4rem 0;
-    padding: 0 3rem;
+    padding: 2rem;
 
     background: linear-gradient(
         145deg,
